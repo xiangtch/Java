@@ -1,0 +1,1 @@
+package sun.awt;// INTERNAL ERROR //

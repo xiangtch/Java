@@ -1,0 +1,1 @@
+package sun.java2d;// INTERNAL ERROR //
